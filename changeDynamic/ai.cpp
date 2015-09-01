@@ -1,0 +1,1 @@
+extern "C" int count(){return 88 ;}
